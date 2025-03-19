@@ -1,4 +1,4 @@
-package com.example.chatGraph;
+package dku25.chatGraph;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
